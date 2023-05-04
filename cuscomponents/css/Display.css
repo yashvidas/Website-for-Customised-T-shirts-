@@ -1,0 +1,31 @@
+.imgTshirt{
+    position: relative;
+}
+.design-box{
+    position: absolute;
+    top: 250px;
+    left: 150px;
+}
+.uploadImage{
+    border: 6px solid #fff;
+}
+.text{
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.button {
+    width: 100%;
+    margin-top: 0.5rem;
+    padding: 0.75rem 0;
+    background: transparent;
+    text-transform: uppercase;
+    border: 2px solid black;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background: black;
+    color: white;
+  }
+  
